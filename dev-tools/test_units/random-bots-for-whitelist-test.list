@@ -1,117 +1,101 @@
 01h4x.com
 360Spider
-80legs
+AIBOT
+ASPSeek
 Abonti
-AhrefsBot
+AfD-Verbotsverfahren
 AiHitBot
 Aipbot
-Alexibot
-Alligator
-AlphaBot
-Apexoo
-AwarioRssBot
+AllSubmitter
+Anarchie
+Ankit
 BDCbot
-BackDoorBot
-BackStreet
+BDFetch
 BackWeb
-Barkrowler
+BacklinkCrawler
+Battleztar Bazinga
 BetaBot
+Bigfoot
 Bitacle
-Black Hole
+Blackboard
+Blow
 BlowFish
 Bolt
-Brandprotect
-Bullseye
-BunnySlippers
-BuzzSumo
-Calculon
-Cegbfeieh
-CheTeam
+BotALot
+Buddy
+CCBot
 ChinaClaw
 Chlooe
-Claritybot
 Cloud mapping
+Copyscape
+Craftbot
 Crescent
-DIIbot
+Custo
 DSearch
-DataCha0s
+DTS Agent
+DatabaseDriverMysqli
 Deusu
 Devil
 DigitalPebble
 Dirbuster
 Disco
-Discoverybot
 DnyzBot
-DomainAppender
+DomCopBot
 Dotbot
 Download Wonder
-Dragonfly
+Drip
+Ebingbong
 Ecxi
 EirGrabber
-Exabot
+EroCrawler
+Evil
 ExtractorPro
-Ezooms
-Flunky
-Foobot
+EyeNetIE
 FrontPage
 Fuzz
-G-i-g-a-b-o-t
-GT::WWW
 GalaxyBot
+GermCrawler
 GetRight
 GetWeb
+Getintent
 Go!Zilla
-GoZilla
-GrabNet
-Grafula
 GrapeFX
+GridBot
+HTMLparser
 HTTP::Lite
-HaosouSpider
-Harvest
 Heritrix
-Hloader
 Humanlinks
-IRLbot
+HybridBot
 Iblog
 IlseBot
 Image Fetch
 Image Sucker
-Indy Library
+IndeedBot
 InfoNaviRobot
-Intelliseek
 InterGET
+Internet Ninja
 InternetSeer
-Iskanie
+IstellaBot
+JOC Web Spider
 Jbrofuzz
-JennyBot
-JetCar
-JikeSpider
-Joomla
-Jyxobot
 Kenjin Spider
-Keyword Density
-Kozmosbot
 LNSpiderguy
-LWP::Simple
-Larbin
 LeechGet
-LexiBot
-Lftp
-LibWeb
-Libwhisker
-LieBaoFast
 Lightspeedsystems
 Likse
 LinkScan
-Linkdexbot
-LinkpadBot
-LinqiaMetadataDownloaderBot
-LinqiaScrapeBot
-MFC_Tear_Sample
-MQQBrowser
+LinkextractorPro
+LinqiaRSSBot
+Lipperhey
+Lipperhey Spider
+Litemage_walker
+Ltx71
+MIIxpc
+MSFrontPage
 MTRobot
 Mag-Net
 Magnet
+Mail.RU_Bot
 Majestic SEO
 Majestic12
 MarkMonitor
@@ -120,131 +104,147 @@ Mass Downloader
 MeanPath Bot
 MegaIndex.ru
 Metauri
-Microsoft Data Access
+MicroMessenger
 Microsoft URL Control
-Mister PiX
 Mojeek
-Morfeus Fucking Scanner
-NICErsPRO
+Mozlila
+Musobot
+NPbot
 Navroad
 Net Vampire
-NetLyzer
+Netcraft
 Nettrack
-NextGenSearchBot
-Nikto
-NimbleCrawler
-Nuclei
+Netvibes
+Ninja
+Nmap
+Nutch
 OpenLinkProfiler
-OpenVAS
 Openfind
 OutclicksBot
-PECL::HTTP
 PHPCrawl
 POE-Component-Client-HTTP
+Page Analyzer
+PageAnalyzer
+PageScorer
 PageThing.com
 Pandalytics
 Papa Foto
-Pavuk
 PeoplePal
+Petalbot
 Pi-Monster
 Picsearch
+PictureFinder
 Piepmatz
-Pockey
+Pimonster
 Probethenet
 Psbot
 Pump
+PxBroker
 PyCurl
-RankingBot
+QueryN Metasearch
+Quick-Crawler
+RSSingBot
+RankFlex
 RankingBot2
-RedesScrapy
+Re-re
+ReGet
 RepoMonkey
 SBIder
-SEOkicks-Robot
-SalesIntelligent
+SEOkicks
+SEOlyticsCrawler
+SEOstats
+SISTRIX
 ScanAlert
-ScreenerBot
+Screaming
 Searchestate
-SentiBot
-Shodan
-SiteLockSpider
-SiteSucker
-SlySearch
+SeobilityBot
+Siphon
+SiteCheckerBotCrawler
+SiteExplorer
+Sitebeam
+SmartDownload
 Sogou web spider
-Sottopop
+SpaceBison
 Spammen
 SpankBot
 Spbot
-SputnikBot
-Steeler
-Sucuri
-SuperBot
+Sqworm
+Stripper
 Surfbot
-Suzuran
-T0PHackTeam
+SurveyBot
 Teleport
-TeleportPro
-Telesphoreo
-The Intraformant
-Titan
+TheNomad
+TightTwatBot
+Toweyabot
+Trendictionbot
 True_Robot
 Turnitin
+Twice
 Typhoeus
 URLy Warning
 UnisterBot
-VelenPublicWebCrawler
+VB Project
+Vacuum
 VeriCiteCrawler
-Virusdie
-VoidEYE
-WPScan
+Voil
+Voltron
+WEBDAV
+WISENutbot
 WWW-Collector-E
-WWW::Mechanize
-WWWOFFLE
 WeSEE
-Web Fuck
+Web Auto
+Web Collage
+Web Enhancer
+Web Fetch
+WebBandit
 WebEnhancer
 WebFetch
 WebFuck
+WebImageCollector
+WebReaper
 WebSauger
-WebWhacker
-WebZIP
-Webalta
-WebmasterWorldForumBot
 Website Quester
-WebsiteExtractor
 WebsiteQuester
-Whacker
-Whatweb
-Widow
-Wonderbot
-Woobot
+Webster
+Whack
+Wotbox
 Wprecon
-Zade
-Zermelo
-Zeus
+Xaldon WebSpider
+Xaldon_WebSpider
+YoudaoBot
+ZmEu
+ZoomBot
 ZoominfoBot
-ZumBot
 archive.org_bot
-arquivo-web-crawler
-arquivo.pt
-check1.exe
+autoemailspider
+coccocbot-web
 com.plumanalytics
-eCatch
-heritrix
+crawl.sogou.com
+crawler4j
+evc-batch
 internetVista monitor
-ips-agent
-lwp-request
+lwp-trivial
 magpie-crawler
+mediawords
 muhstik-scan
 netEstate NE Crawler
+oBot
 page scorer
+pcBrowser
+polaris version
+probe-image-size
 ripz
-seobility
-serpstatbot
-sexsearcher
+s1z.ru
+satoristudio.net
+scalaj-http
+scan.lol
+seostar
 sitechecker.pro
+siteripz
 sogouspider
 sp_auditbot
 spyfu
-voyagerx.com
-x22Mozilla
+tAkeOut
+trendiction.de
+zauba.io
 zgrab
